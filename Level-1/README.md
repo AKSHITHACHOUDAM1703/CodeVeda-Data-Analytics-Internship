@@ -27,4 +27,4 @@ This task focuses on performing exploratory data analysis on the cleaned house p
 
 ## Files
 - `EDA.ipynb` - Exploratory data analysis notebook
-- `cleaned_house_prediction.csv` - Cleaned dataset used for analysis.
+- `cleaned_house_prediction.csv` - Cleaned dataset used for analysis
